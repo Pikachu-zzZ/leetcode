@@ -12,5 +12,6 @@ public class App
         System.out.println( "Hello git v2!" );
         System.out.println( "Hello git hot-fix!" );
         System.out.println( "Hello git conflict master!" );
+        System.out.println( "Hello git conflict hot-fix!" );
     }
 }
