@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello git v1!" );
         System.out.println( "Hello git v2!" );
+        System.out.println( "Hello git hot-fix!" );
     }
 }
