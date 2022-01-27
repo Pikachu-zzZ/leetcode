@@ -13,5 +13,6 @@ public class App
         System.out.println( "Hello git hot-fix!" );
         System.out.println( "Hello git conflict master!" );
         System.out.println( "Hello git conflict hot-fix!" );
+        System.out.println( "Hello git pull test!" );
     }
 }
